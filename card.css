@@ -50,7 +50,7 @@ h2 {
     padding: 20px 10px;
 }
 
-.contacts .li a img:hover {
+.contacts li a img:hover{
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
